@@ -1,0 +1,27 @@
+{
+  "name": "dt-submit",
+  "version": "0.0.1",
+  "description": "Utility to submit a TypeScript definition to DefinitelyTyped via your fork",
+  "main": "dt-submit-lib.js",
+  "scripts": {
+    "test": "node node_modules/bin/mocha dt-submit.test.js --timeout 50000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stpettersens/dt-submit.git"
+  },
+  "keywords": [
+    "typescript",
+    "definition",
+    "submit",
+    "submission",
+    "tool",
+    "utility"
+  ],
+  "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stpettersens/dt-submit/issues"
+  },
+  "homepage": "https://github.com/stpettersens/dt-submit"
+}

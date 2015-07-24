@@ -1,5 +1,6 @@
 dt-submit
 Utility to submit a TypeScript definition to DefinitelyTyped via your fork.
+
 Copyright 2015 Sam Saint-Pettersen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
